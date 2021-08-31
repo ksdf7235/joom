@@ -1,0 +1,9 @@
+{
+  "name": "joom",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "줌 클론 코딩",
+  "license": "MIT"
+}
